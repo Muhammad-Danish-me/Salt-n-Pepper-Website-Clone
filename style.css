@@ -7,7 +7,7 @@ body{
     margin: 0px;
 }
 .header{
-    width: 100%;
+    width:100%;
     background-color: black;
     padding: 10px 150px;
     height: 120px;
@@ -139,7 +139,7 @@ body{
 /* franchise-section one */
 .franchise-section-one{
     width: 100%;
-    height: 1500;
+    height: 1400px;
     background-color: rgb(18, 16, 16);
 }
 .franchise-content>p{
@@ -271,6 +271,210 @@ margin-top: 50px;
     display: inline-block;
     margin-left: 100px;
 }
+/* franchises-section  */
+.franchises-section{
+    width: 100%;
+    height: 1800px;
+    background-color: black;
+    color: white;
+    line-height: 30px;
+}
+.franchises-heading-font{
+    font-family: futurak;
+    font-size: 50px;
+    margin: 0%;
+}
+.franchises-heading{
+    padding: 80px;
+    text-align: center;
+}
+.franchises-heading>p{
+    font-size: 60px;
+
+}
+/* franchises section one */
+.franchise-container-one{
+    width: 100%;
+    text-align: center;
+    display: inline-block; 
+}
+.package-mall>img{
+    width: 350px;
+}
+.package-mall{
+    width: auto;
+    display: inline-block;
+    margin: 20px;
+}
+.emporium-mall{
+    width: auto;
+    display: inline-block;
+    margin: 20px;
+}
+.gujranwala-mall{
+    width: auto;
+    display: inline-block;
+    margin: 20px;
+}
+.emporium-mall>img{
+    width: 350px;
+}
+.gujranwala-mall>img{
+    width: 350px;
+}
+.gujranwala-mall-head{
+    color: red;
+    letter-spacing: 8px;
+}
+.package-mall-head{
+    color: red;
+    letter-spacing: 8px;
+}
+.emporium-mall-head{
+    color: red;
+    letter-spacing: 8px ;
+}
+.package-mall-font{
+    font-family: futurak;
+    font-size: 30px;
+}
+.emporium-mall-font{
+    font-family: futurak;
+    font-size: 30px;
+}
+.gujranwala-mall-font{
+    font-family: futurak;
+    font-size: 30px;
+}
+.express{
+    font-size: 30px;
+}
+
+.package-mall-contact{
+    font-size: 17px;
+}
+.emporium-mall-contact{
+    font-size: 17px ;
+}
+.gujranwala-mall-contact{
+    font-size: 17px ;
+}
+.package-mall button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ;
+}
+.emporium-mall button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ;
+}
+.gujranwala-mall button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ;
+}
+
+/* franchises section two */
 
 
 
+.franchise-container-one{
+    width: 100%;
+    text-align: center;
+    display: inline-block; 
+}
+.package-mall>img{
+    width: 350px;
+}
+.package-mall{
+    width: auto;
+    display: inline-block;
+    margin: 20px;
+}
+.emporium-mall{
+    width: auto;
+    display: inline-block;
+    margin: 20px;
+}
+.gujranwala-mall{
+    width: auto;
+    display: inline-block;
+    margin: 20px;
+}
+.emporium-mall>img{
+    width: 350px;
+}
+.gujranwala-mall>img{
+    width: 350px;
+}
+.gujranwala-mall-head{
+    color: red;
+    letter-spacing: 8px;
+}
+.package-mall-head{
+    color: red;
+    letter-spacing: 8px;
+}
+.emporium-mall-head{
+    color: red;
+    letter-spacing: 8px ;
+}
+.package-mall-font{
+    font-family: futurak;
+    font-size: 30px;
+}
+.emporium-mall-font{
+    font-family: futurak;
+    font-size: 30px;
+}
+.gujranwala-mall-font{
+    font-family: futurak;
+    font-size: 30px;
+}
+.express{
+    font-size: 30px;
+}
+
+.package-mall-contact{
+    font-size: 17px;
+}
+.emporium-mall-contact{
+    font-size: 17px ;
+}
+.gujranwala-mall-contact{
+    font-size: 17px ;
+}
+.package-mall button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ;
+}
+.emporium-mall button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ;
+}
+.gujranwala-mall button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ;
+}
